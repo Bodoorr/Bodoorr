@@ -1,65 +1,53 @@
-# 🌸 Bidoor Almannaei – Software Engineer & Full-Stack Developer
+# Bidoor Almannaei – Software Engineer & Full-Stack Developer
 
-![Logo](images/logo.png)
+<img src="images/logo.png" alt="Logo" width="80"/>
 
-Welcome to my personal portfolio!  
+Welcome to my personal portfolio.  
 I’m **Bidoor Almannaei**, a **Software Engineer & Full-Stack Developer**, currently working as an  
-**Associate Instructor for Software Engineering at General Assembly**, helping students learn and grow while building creative applications.
+**Associate Instructor for Software Engineering at General Assembly** — helping students learn and build creative applications.
 
 ---
 
 ## About Me
 
-Hi! I'm **Bidoor Almannaei**, passionate about coding, teaching, and building creative full-stack web applications.  
-I enjoy blending design, storytelling, and functionality to make every project meaningful and visually engaging.
+I’m passionate about coding, teaching, and crafting meaningful full-stack web experiences.  
+My projects blend creativity, design, and functionality — bringing ideas to life through code.
 
 ---
 
 ## GA Projects
 
 ### [GA-Movie Mood](https://github.com/shsasa/moviemood)
-A web app that helps track movies to watch and create custom lists.  
-**Tech Stack:** Node.js, Express.js, MongoDB (Mongoose), EJS  
-![Movie Mood](./images/moviemood.png)
-
----
+A movie tracker web app for creating personalized watchlists.  
+**Stack:** Node.js, Express, MongoDB, EJS
 
 ### [GA-TasteTogether](https://github.com/ManarSwar97/TasteTogether-Backend)
-A web app for food lovers to share recipes, discover dishes, and connect with friends.  
-**Tech Stack:** Node.js, Express.js, Authentication & Session Middleware, MongoDB (Mongoose), React  
-![TasteTogether](./images/tastetogether.png)
-
----
+A social recipe app for sharing dishes and connecting with friends.  
+**Stack:** Node.js, Express, MongoDB, React, Auth Middleware
 
 ### [GA-MyLifeFlow](https://github.com/ManarSwar97/MyLifeFlow/tree/main)
-A personal dashboard app for tasks, budgeting, grocery restocks, QR-based inventory, voice journaling, and yearly achievements tracking.  
-**Tech Stack:** Python, Django, JS, Pillow, HTML & CSS  
-![MyLifeFlow](./images/myLifeFlow.png)
+A personal dashboard for daily tasks, budgeting, grocery restocks, journaling, and achievements.  
+**Stack:** Python, Django, JS, HTML, CSS
 
 ---
 
 ## GA Instructor Projects
 
-### [GA-Envelope](https://github.com/Bodoorr/GA-Envelope) · [Try the App](https://ga-envelope.up.railway.app)
-Students can write a letter to their future selves.  
-**Tech Stack:** Node.js, Express.js, MongoDB (Mongoose), JS, EJS, CSS  
-![GA Envelope](./images/GA-envelope.png)
+### [GA-Envelope](https://github.com/Bodoorr/GA-Envelope) · [Live App](https://ga-envelope.up.railway.app)
+Write letters to your future self.  
+**Stack:** Node.js, Express, MongoDB, EJS, CSS
 
----
-
-### [GA-Shine Booth](https://github.com/Bodoorr/GA-Envelope) · [Try the App](https://ga-shine-booth.up.railway.app)
-Capture photos with live video, add fun stickers, and upload them to the cloud.  
-**Tech Stack:** Node.js, Express.js, JS, Multer, Cloudinary, HTML & CSS  
-![GA Shine Booth](./images/GA-Shine-Booth.png)
+### [GA-Shine Booth](https://github.com/Bodoorr/GA-Envelope) · [Live App](https://ga-shine-booth.up.railway.app)
+Interactive photo booth with stickers and uploads.  
+**Stack:** Node.js, Express, Multer, Cloudinary, HTML, CSS
 
 ---
 
 ## Personal Projects
 
-### 🎀 [KittyDesk](https://github.com/Bodoorr/KittyDesk) · [Try the App](https://kittydesk.onrender.com)
-A desktop & web app inspired by Hello Kitty where users can customize mood, outfits, timer, and recipes.  
-**Tech Stack:** Electron.js, Express.js, Node.js, Multer, MongoDB (Mongoose), HTML & CSS  
-![KittyDesk](./images/kittydesk.png)
+### [KittyDesk](https://github.com/Bodoorr/KittyDesk) · [Live App](https://kittydesk.onrender.com)
+A Hello-Kitty-inspired desktop & web app for mood, outfits, timer, and recipes.  
+**Stack:** Electron.js, Express, MongoDB, HTML, CSS
 
 ---
 
@@ -70,4 +58,4 @@ A desktop & web app inspired by Hello Kitty where users can customize mood, outf
 
 ---
 
-> _“Code with creativity, teach with passion, and design with heart.”_
+> “Code with creativity, teach with passion, and design with heart.”
