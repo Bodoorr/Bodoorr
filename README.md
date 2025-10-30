@@ -15,22 +15,6 @@ My projects blend creativity, design, and functionality — bringing ideas to li
 
 ---
 
-## GA Projects
-
-### [GA-Movie Mood](https://github.com/shsasa/moviemood)
-A movie tracker web app for creating personalized watchlists.  
-**Stack:** Node.js, Express, MongoDB, EJS
-
-### [GA-TasteTogether](https://github.com/ManarSwar97/TasteTogether-Backend)
-A social recipe app for sharing dishes and connecting with friends.  
-**Stack:** Node.js, Express, MongoDB, React, Auth Middleware
-
-### [GA-MyLifeFlow](https://github.com/ManarSwar97/MyLifeFlow/tree/main)
-A personal dashboard for daily tasks, budgeting, grocery restocks, journaling, and achievements.  
-**Stack:** Python, Django, JS, HTML, CSS
-
----
-
 ## GA Instructor Projects
 
 ### [GA-Envelope](https://github.com/Bodoorr/GA-Envelope) · [Live App](https://ga-envelope.up.railway.app)
