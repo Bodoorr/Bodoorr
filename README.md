@@ -1,17 +1,17 @@
 # Bidoor Almannaei – Software Engineer & Full-Stack Developer
 
-<img src="images/logo.png" alt="Logo" width="80"/>
+<img src="images/logo.png" alt="Logo" width="150"/>
 
-Welcome to my personal portfolio.  
+Welcome to my page.  
 I’m **Bidoor Almannaei**, a **Software Engineer & Full-Stack Developer**, currently working as an  
-**Associate Instructor for Software Engineering at General Assembly** — helping students learn and build creative applications.
+**Associate Instructor for Software Engineering at General Assembly**.
 
 ---
 
 ## About Me
 
-I’m passionate about coding, teaching, and crafting meaningful full-stack web experiences.  
-My projects blend creativity, design, and functionality — bringing ideas to life through code.
+I’m passionate about coding and crafting meaningful full-stack web experiences.  
+My projects blend creativity, design, and functionality bringing ideas to life through code.
 
 ---
 
@@ -37,8 +37,7 @@ A Hello-Kitty-inspired desktop & web app for mood, outfits, timer, and recipes.
 
 ## Contact
 
-📧 **Bodoor3358@gmail.com**  
-© 2025 Bidoor Almannaei
+📧 **Bodoor3358@gmail.com** [Bidoor Almannaei]
 
 ---
 
